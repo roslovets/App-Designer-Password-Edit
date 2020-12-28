@@ -1,5 +1,7 @@
 # MATLAB App Designer Password Edit Field
 
+[![View App Designer Password Edit Field on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/84852-app-designer-password-edit-field)
+
 Insert protected password field to your App Designer App
 
 ![App-Designer-Password-Edit](/sample/app-designer-password-edit.png)
